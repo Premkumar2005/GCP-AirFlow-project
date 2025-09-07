@@ -64,17 +64,3 @@ airflow scheduler
     - Trigger DAGs via the Composer UI.
 
 Example DAG: The `gcp_etl_dag.py` demonstrates loading data from Cloud Storage to BigQuery.
-
-## Contributing
-
-Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-<span style="display:none">[^1]</span>
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://github.com/Premkumar2005/GCP-AirFlow-project
-
